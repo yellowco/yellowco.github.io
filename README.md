@@ -1,4 +1,4 @@
 Yellowcoin Blog
 ===============
 
-A static blog using the Hyde engine.
+A static blog using the Nikola engine.
