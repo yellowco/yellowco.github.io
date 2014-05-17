@@ -287,6 +287,7 @@ DEPLOY_COMMANDS = [
 	'git push',
 	'nikola build',
 	'cd ../',
+	'echo $PWD',
 	'git checkout master',
 	'mv ./source/output /tmp/',
 	'rm -rf *',
