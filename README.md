@@ -8,6 +8,8 @@ As per the handbook, to install --
 ```
 sudo pip install nikola
 sudo apt-get install libxml2-dev libxslt1-dev python-dev
+...
+git checkout source
 ```
 
 To edit configuration file --
