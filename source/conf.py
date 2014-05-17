@@ -282,7 +282,7 @@ REDIRECTIONS = []
 DEPLOY_COMMANDS = [
 	'git checkout source',
 	'git add --all "."',
-	'git commit -m "auto-saving source branch"',
+	'git commit --allow-empty -am "auto-saving source branch"',
 	'git push',
 	'nikola build',
 	'git checkout master',
@@ -290,7 +290,7 @@ DEPLOY_COMMANDS = [
 	'rm -rf *',
 	'mv /tmp/output/* ../',
 	'git add --all "."',
-	'git commit -m "auto-deploying master branch"',
+	'git commit --allow-empty -am "auto-deploying master branch"',
 	'git push',
 	'git checkout source',
 	'git stash',
