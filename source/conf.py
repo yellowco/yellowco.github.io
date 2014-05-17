@@ -280,14 +280,15 @@ REDIRECTIONS = []
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
+	'echo $PWD',
 	'git checkout source',
 	'git add --all "."',
 	'git commit -am "auto-saving source branch"',
 	'git push',
 	'nikola build',
-	'cd ..',
+	'cd ../',
 	'git checkout master',
-	'mv source/output /tmp/',
+	'mv ./source/output /tmp/',
 	'rm -rf *',
 	'mv /tmp/output/* ./',
 	'git add --all "."',
