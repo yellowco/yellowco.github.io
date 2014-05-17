@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>galleries | Yellowcoin Blog</title>
+    <title>test post | Yellowcoin Blog</title>
 
     
             <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
@@ -11,7 +11,7 @@
     
             <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
 
-      <link rel="canonical" href="http://yellowco.in/blog/galleries/index.html">
+      <link rel="canonical" href="http://yellowco.in/blog/posts/test-post.html">
 
 
 
@@ -21,16 +21,20 @@
     
 
 
+    
 
+    <meta name="author" content="Yellowco.in">
+    
+        <meta name="og:title" content="test post">
+        <meta name="og:url" content="http://yellowco.in/blog/posts/test-post.html">
+            <meta name="og:description" content="Write your post here.">
+        <meta name="og:site_name" content="Yellowcoin Blog">
+        <meta name="og:type" content="article">
 
-<style type="text/css">
-    .image-block {
-        display: inline-block;
-    }
-    .flowr_row {
-        width: 100%;
-    }
-    </style>
+    
+
+    
+
 
 
 </head>
@@ -74,6 +78,10 @@
                 
                 
                     
+    <li>
+    <a href="test-post.rst" id="sourcelink">Source</a>
+    </li>
+
                 
             </ul>
         </div>
@@ -90,16 +98,39 @@
         <div class="row">
             
             
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
     
-<nav class="breadcrumbs">
-<ul class="breadcrumb">
-        <li><a href="#">galleries</a></li>
-</ul>
-</nav>
+    <header>
+        
+    <h1 class="p-name entry-title" itemprop="headline name"><a href="#" class="u-url">test post</a></h1>
 
-    <h1>galleries</h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn">Yellowco.in</span></p>
+            <p class="dateline"><a href="#" rel="bookmark"><time class="published dt-published" datetime="2014-05-17T00:45:49+00:00" itemprop="datePublished" title="Publication date">2014-05-17 00:45</time></a></p>
+            
+        <p class="sourceline"><a href="test-post.rst" id="sourcelink">Source</a></p>
 
-<div id="gallery_container"></div>
+        </div>
+        
+
+    </header>
+
+    <div class="e-content entry-content" itemprop="articleBody text">
+    Write your post here.
+    </div>
+    <aside class="postpromonav">
+    <nav>
+    
+
+    
+
+    </nav>
+    </aside>
+    
+
+</article>
+
+
 
         </div>
         <!--End of body content-->
@@ -138,45 +169,6 @@
 
     <script>jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
     
-<script src="../assets/js/flowr.plugin.js"></script>
-<script>
-jsonContent = [];
-$("#gallery_container").flowr({
-        data : jsonContent,
-        height : 180*.6,
-        padding: 5,
-        rows: -1,
-        render : function(params) {
-            // Just return a div, string or a dom object, anything works fine
-            img = $("<img />").attr({
-                'src': params.itemData.url_thumb,
-                'width' : params.width,
-                'height' : params.height
-            }).css('max-width', '100%');
-            link = $( "<a></a>").attr({
-                'href': params.itemData.url,
-                'class': 'image-reference'
-            });
-            div = $("<div />").addClass('image-block').attr({
-                'title': params.itemData.title,
-                'data-toggle': "tooltip",
-            });
-            link.append(img);
-            div.append(link);
-            div.hover(div.tooltip());
-            return div;
-        },
-        itemWidth : function(data) { return data.size.w; },
-        itemHeight : function(data) { return data.size.h; },
-        complete : function(params) {
-            if( jsonContent.length > params.renderedItems ) {
-                nextRenderList = jsonContent.slice( params.renderedItems );
-            }
-        }
-    });
-$("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
-</script>
-
 
 
 </body>

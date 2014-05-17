@@ -5,10 +5,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://yellowco.in/blog/galleries/rss.xml</loc>
-  <lastmod>2014-05-16</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://yellowco.in/blog/rss.xml</loc>
   <lastmod>2014-05-16</lastmod>
  </sitemap>
