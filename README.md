@@ -1,7 +1,7 @@
 yellowco.github.io
 ==================
 
-A static blog using the Nikola engine. ([readme](http://getnikola.com/handbook.html))
+A static blog using the Nikola engine. ([handbook](http://getnikola.com/handbook.html))
 
 As per the handbook, to install --
     sudo pip install nikola
@@ -10,3 +10,6 @@ As per the handbook, to install --
 To deploy --
     cd /path/to/root/
     nikola github_deploy
+
+
+To create a theme, see the [manual](http://getnikola.com/creating-a-theme.html).
