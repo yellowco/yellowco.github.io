@@ -281,7 +281,7 @@ REDIRECTIONS = []
 # To do manual deployment, set it to []
 DEPLOY_COMMANDS = [
 	'git checkout source',
-	'git --all "."',
+	'git add --all "."',
 	'git commit -am "auto-saving source branch"',
 	'git push',
 	'nikola build',
@@ -290,7 +290,7 @@ DEPLOY_COMMANDS = [
 	'mv source/output /tmp/',
 	'rm -rf *',
 	'mv /tmp/output/* ./',
-	'git --all "."',
+	'git add --all "."',
 	'git commit -am "auto-deploying master branch"',
 	'git push',
 	'git checkout source',
