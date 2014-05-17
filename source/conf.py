@@ -293,7 +293,7 @@ DEPLOY_COMMANDS = [
 	'git commit -am "auto-deploying master branch"',
 	'git push',
 	'git checkout source',
-	'git revert',
+	'git stash',
 ]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
