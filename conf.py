@@ -116,7 +116,7 @@ TIMEZONE = "UTC"
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
 # Note that this does not affect DATE_FORMAT.
-# FORCE_ISO8601 = False
+FORCE_ISO8601 = True
 
 # Date format used to display post dates.
 # (str used by datetime.datetime.strftime)
@@ -187,12 +187,12 @@ COMPILERS = {
     "txt2tags": ('.t2t',),
     "bbcode": ('.bb',),
     "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
+    # "ipynb": ('.ipynb',),
     "html": ('.html', '.htm'),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
+    # "php": ('.php',),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
@@ -201,7 +201,7 @@ COMPILERS = {
 
 # Create by default posts in one file format?
 # Set to False for two-file posts, with separate metadata.
-# ONE_FILE_POSTS = True
+ONE_FILE_POSTS = False
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
