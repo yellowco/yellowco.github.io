@@ -5,23 +5,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://getnikola.com/archive.html</loc>
+  <loc>http://yellowco.in/blog/archive.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/categories/index.html</loc>
+  <loc>http://yellowco.in/blog/categories/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/galleries/index.html</loc>
+  <loc>http://yellowco.in/blog/galleries/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/index.html</loc>
+  <loc>http://yellowco.in/blog/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/listings/index.html</loc>
+  <loc>http://yellowco.in/blog/listings/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
 </urlset>

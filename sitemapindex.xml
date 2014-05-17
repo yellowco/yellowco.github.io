@@ -5,15 +5,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://getnikola.com/galleries/rss.xml</loc>
+  <loc>http://yellowco.in/blog/galleries/rss.xml</loc>
   <lastmod>2014-05-16</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://getnikola.com/rss.xml</loc>
+  <loc>http://yellowco.in/blog/rss.xml</loc>
   <lastmod>2014-05-16</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://getnikola.com/sitemap.xml</loc>
+  <loc>http://yellowco.in/blog/sitemap.xml</loc>
   <lastmod>2014-05-16</lastmod>
  </sitemap>
 </sitemapindex>
