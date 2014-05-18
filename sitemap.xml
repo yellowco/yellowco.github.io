@@ -5,35 +5,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://getnikola.com/2014/index.html</loc>
-  <lastmod>2014-05-16</lastmod>
- </url>
- <url>
   <loc>http://getnikola.com/archive.html</loc>
-  <lastmod>2014-05-16</lastmod>
+  <lastmod>2014-05-18</lastmod>
  </url>
  <url>
   <loc>http://getnikola.com/categories/index.html</loc>
-  <lastmod>2014-05-16</lastmod>
+  <lastmod>2014-05-18</lastmod>
  </url>
  <url>
   <loc>http://getnikola.com/galleries/index.html</loc>
-  <lastmod>2014-05-16</lastmod>
+  <lastmod>2014-05-18</lastmod>
  </url>
  <url>
   <loc>http://getnikola.com/index.html</loc>
-  <lastmod>2014-05-16</lastmod>
+  <lastmod>2014-05-18</lastmod>
  </url>
  <url>
   <loc>http://getnikola.com/listings/empty.html</loc>
-  <lastmod>2014-05-16</lastmod>
+  <lastmod>2014-05-18</lastmod>
  </url>
  <url>
   <loc>http://getnikola.com/listings/index.html</loc>
-  <lastmod>2014-05-16</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/hello-world.html</loc>
-  <lastmod>2014-05-16</lastmod>
+  <lastmod>2014-05-18</lastmod>
  </url>
 </urlset>
