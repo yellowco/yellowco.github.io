@@ -5,10 +5,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://getnikola.com/2014/index.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
   <loc>http://getnikola.com/archive.html</loc>
   <lastmod>2014-05-18</lastmod>
  </url>
@@ -30,42 +26,6 @@
  </url>
  <url>
   <loc>http://getnikola.com/listings/index.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/1uuewueue.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/fjeklwajfewafewa.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/ghfejkwf.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/jfekwjflkewjlfew.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/jfkelwjmflkewmclkew.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/jfkmelawcewa.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/jflkewmlkewmlkewjalkjawfewa.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/jkfejkfjekjfe.html</loc>
-  <lastmod>2014-05-18</lastmod>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/test-post-2.html</loc>
   <lastmod>2014-05-18</lastmod>
  </url>
 </urlset>
