@@ -1,4 +1,5 @@
 cache/*
 output/*
+posts/*html
 *.pyc
 *.db
