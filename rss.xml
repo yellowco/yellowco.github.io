@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>My Nikola Site</title><link>http://getnikola.com/</link><description>This is a demo site for Nikola.</description><language>en</language><lastBuildDate>Sun, 18 May 2014 18:28:35 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>It's Here!</title><link>http://getnikola.com/posts/its-here.html</link><dc:creator>Nikola Tesla</dc:creator><description>&lt;p&gt;We are pleased to announce the alpha release of Yellowco.in to the wild. 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Yellowco.in</title><link>http://yellowco.in/</link><description></description><language>en</language><lastBuildDate>Sun, 18 May 2014 18:33:30 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>It's Here!</title><link>http://yellowco.in/posts/its-here.html</link><dc:creator>Yellowco.in</dc:creator><description>&lt;p&gt;We are pleased to announce the alpha release of Yellowco.in to the wild. 
 After six months of development, unit testing, and deployment practice, 
 we are finally ready for the first round of live testing. Thank you all 
 for the wait, and please let us know of any issues that come up. Happy 
 buying!&lt;/p&gt;
-&lt;p&gt;-- The Yellowco.in Team&lt;/p&gt;</description><guid>http://getnikola.com/posts/its-here.html</guid><pubDate>Sun, 18 May 2014 23:18:28 GMT</pubDate></item></channel></rss>
+&lt;p&gt;-- The Yellowco.in Team&lt;/p&gt;</description><guid>http://yellowco.in/posts/its-here.html</guid><pubDate>Sun, 18 May 2014 23:18:28 GMT</pubDate></item></channel></rss>
