@@ -17,16 +17,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Nikola Tesla"  # (translatable)
-BLOG_TITLE = "My Nikola Site"  # (translatable)
+BLOG_AUTHOR = "Yellowco.in"  # (translatable)
+BLOG_TITLE = "Yellowco.in"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://getnikola.com/"
+SITE_URL = "http://yellowco.in/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "n.tesla@example.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = "blog@yellowco.in"
+BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -95,7 +95,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/rss.xml", "RSS"),
     ),
 }
 
