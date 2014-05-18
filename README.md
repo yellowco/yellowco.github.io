@@ -26,6 +26,9 @@ nikola new_post -t "post_title"
 To deploy --
 ```
 cd /path/to/root/
+git add new.rst files.rst
+git commit -am "saving source"
+git push
 nikola github_deploy
 ```
 
