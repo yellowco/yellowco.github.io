@@ -25,7 +25,7 @@ SITE_URL = "http://yellowco.in/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "blog@yellowco.in"
+BLOG_EMAIL = "media@yellowco.in"
 BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
