@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Yellowco.in</title><link>http://yellowco.in/</link><description></description><language>en</language><lastBuildDate>Sun, 18 May 2014 23:52:25 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>It's Here!</title><link>http://yellowco.in/posts/its-here.html</link><dc:creator>Yellowco.in</dc:creator><description>&lt;p&gt;We are pleased to announce the alpha release of Yellowco.in to the wild. 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Yellowco.in</title><link>http://yellowco.in/</link><description></description><language>en</language><lastBuildDate>Tue, 20 May 2014 03:35:07 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>It's Here!</title><link>http://yellowco.in/posts/its-here.html</link><dc:creator>Yellowco.in</dc:creator><description>&lt;p&gt;We are pleased to announce the alpha release of Yellowco.in to the wild. 
 After six months of development, unit testing, and deployment practice, 
 we are finally ready for the first round of live testing. Thank you all 
-for the wait, and please let us know of any issues that come up. Happy 
-buying!&lt;/p&gt;
+for the wait, and please let us know of any issues that come up at 
+&lt;a href="mailto:help@yellowco.in"&gt;help@yellowco.in&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Questions about this blog and other social media matters should be 
+directed to &lt;a href="mailto:social@yellowco.in"&gt;social@yellowco.in&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Happy buying!&lt;/p&gt;
 &lt;p&gt;-- The Yellowco.in Team&lt;/p&gt;</description><guid>http://yellowco.in/posts/its-here.html</guid><pubDate>Sun, 18 May 2014 23:18:28 GMT</pubDate></item></channel></rss>
